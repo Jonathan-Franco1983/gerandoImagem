@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJm3HaudnGBto9Ti1yaS73OmS8pvKjyquXRo9/778Zqz9az8Q1+jgShwFngI1f9Aflw7r6rjJdSbhSFuXU3vCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Área de Trabalho\\c#\\pdv1\\DesafioGerandoImagem\\DesafioGerandoImagem\\DesafioGerandoImagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
